@@ -30,6 +30,7 @@ iOS Knowledge Base
 - https://github.com/IFTTT/JazzHands
 - https://github.com/zrxq/UIView-EasingFunctions
 - https://developer.apple.com/library/ios/documentation/windowsviews/conceptual/viewpg_iphoneos/animatingviews/animatingviews.html
+- http://ronnqvi.st/clear-animation-code/?utm_campaign=iOS_Dev_Weekly_Issue_132&utm_medium=email&utm_source=iOS%2BDev%2BWeekly
 
 ###7. Oficjalna dokumentacja: GUI i Elementy systemu
 - http://www.raywenderlich.com/50317/beginning-auto-layout-tutorial-in-ios-7-part-1
