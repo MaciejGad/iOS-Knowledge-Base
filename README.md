@@ -45,4 +45,5 @@ iOS Knowledge Base
 Narzędzie umożliwiające podgląd struktury aplikacji oraz danych CoreData
 https://github.com/MaciejGad/iOS-Hierarchy-Viewer
 
-
+###10. Multitasking
+- What’s New with Multitasking (wwdc) http://devstreaming.apple.com/videos/wwdc/2013/204xex2xvpdncz9kdb17lmfooh/204/204.pdf 
