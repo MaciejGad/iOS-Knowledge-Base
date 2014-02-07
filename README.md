@@ -47,6 +47,7 @@ https://github.com/MaciejGad/iOS-Hierarchy-Viewer
 
 ###10. Multitasking
 - What’s New with Multitasking (wwdc) http://devstreaming.apple.com/videos/wwdc/2013/204xex2xvpdncz9kdb17lmfooh/204/204.pdf 
+- http://code.tutsplus.com/tutorials/ios-7-sdk-background-transfer-service--mobile-20595
 
 ###11. iOS design patterns
 - http://www.raywenderlich.com/46988/ios-design-patterns
