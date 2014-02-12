@@ -1,9 +1,11 @@
 iOS Knowledge Base
 =========
 
-###1. Nazewnictwo zgodne ze standardami Apple
+###1. Nazewnictwo
 - https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
 - https://github.com/Alterplay/iOS-Code-Conventions/blob/master/Code%20Conventions.md
+- https://github.com/troyharris/Complete-iOS-StyleGuide
+- https://github.com/NYTimes/objective-c-style-guide
 
 ###2. GCD + bloki + kolejki
 - https://developer.apple.com/library/ios/documentation/Performance/Reference/GCD_libdispatch_Ref/Reference/reference.html
@@ -52,3 +54,11 @@ https://github.com/MaciejGad/iOS-Hierarchy-Viewer
 
 ###11. iOS design patterns
 - http://www.raywenderlich.com/46988/ios-design-patterns
+
+###12. Cheat Sheets
+- http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/
+- http://ios-blog.co.uk/resources/objective-c-cheat-sheet/
+- https://github.com/oisin/app-release-checklist/blob/master/checklist.md
+
+###13. Wtyczki do XCode
+- https://github.com/ksuther/KSImageNamed-Xcode
