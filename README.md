@@ -62,3 +62,8 @@ https://github.com/MaciejGad/iOS-Hierarchy-Viewer
 
 ###13. Wtyczki do XCode
 - https://github.com/ksuther/KSImageNamed-Xcode
+
+###14. Terminal
+- xcodebuild -workspace _Name.xcworkspace -scheme _Name
+- xcodebuild -workspace _Name.xcworkspace -list
+- xcodebuild test -workspace _Name.xcworkspace -scheme _Name -destination "name=iPhone Retina (4-inch)"
