@@ -23,7 +23,7 @@ alias too_long_files="find  . -name \*.m -not -path './Pods/*'  -exec wc -l {} \
 
 #print diff only for *.h and *.m files usage:
 #commit_diff HEAD~1 HEAD
-alias commit_diff="git diff --name-only  $1 $2 | egrep '(\.h|\.m)' | grep -v ^Pods| xargs git diff -w $1 $2 --"
+function commit_diff() { git diff --name-only  $1 $2 | egrep '(\.h|\.m)' | grep -v ^Pods| xargs git diff --src-prefix="$1/" --dst-prefix="$2/" -w $1 $2 --; }
 
 #giteł
 alias such=git
