@@ -67,3 +67,6 @@ https://github.com/MaciejGad/iOS-Hierarchy-Viewer
 - xcodebuild -workspace _Name.xcworkspace -scheme _Name
 - xcodebuild -workspace _Name.xcworkspace -list
 - xcodebuild test -workspace _Name.xcworkspace -scheme _Name -destination "name=iPhone Retina (4-inch)"
+
+###15. Jednolinijkowce
+W pliku one-liners.sh znajduje się kilka ciekawych skryptów. 
