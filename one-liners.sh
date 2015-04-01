@@ -21,6 +21,9 @@ alias avg_file_length="find . -name \*.m -not -path './Pods/*'  -exec wc -l {} \
 #print too long files (over 300 lines, only *.m files) 
 alias too_long_files="find  . -name \*.m -not -path './Pods/*'  -exec wc -l {} \; | sort | awk 'BEGIN{ count = 0; } { if (\$1 > 300){ print \$0; count++}}  END { print \"    \"  count \" files long over 300 lines\" }'"
 
+#print current branch
+alias current_branch="git symbolic-ref --short HEAD"
+
 #print diff only for *.h and *.m files usage:
 #commit_diff HEAD~1 HEAD
 function commit_diff() { git diff --name-only  $1 $2 | egrep '(\.h|\.m)' | grep -v ^Pods| xargs git diff --src-prefix="$1/" --dst-prefix="$2/" -w $1 $2 --; }
